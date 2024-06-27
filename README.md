@@ -19,11 +19,17 @@ Used visualizations to gain insights into the frequency and severity of fires.
 Model Implementation and Evaluation
 
 **Implemented multiple regression models using the Scikit-learn library:**
+
 Linear Regression: Baseline model to establish initial performance.
+
 Ridge Regression: Improved accuracy and reduced overfitting; selected as the best-performing model.
+
 Lasso Regression: Evaluated for feature selection and sparsity.
+
 ElasticNet Regression: Combined Lasso and Ridge to balance bias and variance.
+
 Conducted hyperparameter tuning to optimize model performance.
+
 Achieved significant accuracy improvements through model evaluation and selection.
 
 **Model Deployment**
